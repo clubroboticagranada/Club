@@ -4,7 +4,7 @@ Creado con la nueva TTF [Sircuito](https://github.com/clubroboticagranada/TTF-Si
 
 ![Image][1] 
 
- [1]: <center>https://github.com/clubroboticagranada/Club/blob/master/diptico/png/diptico-m.png</center>
+ [1]: https://github.com/clubroboticagranada/Club/blob/master/diptico/png/diptico-m.png
  
 # **Descargas**
 | Fichero | Descripción|
