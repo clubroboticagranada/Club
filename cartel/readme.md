@@ -1,4 +1,4 @@
-## Cartel del club diseñado por Sergio González. ##
+## Póster del club. ##
 
 ![Image][1]
 
